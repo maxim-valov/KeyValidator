@@ -7,8 +7,8 @@
 
 ## **В результате тестирования выявлены следующие дефекты**:
 
-[Ряд валидных ключей опрделяются как невалидные в KeyValidator](https://github.com/maxim-valov/KeyValidator/issues/1#issue-823769506)
-[Ряд невалидных ключей определяется как валидные в KeyValidator](https://github.com/maxim-valov/KeyValidator/issues/2#issue-823771208)
+* [Ряд валидных ключей опрделяются как невалидные в KeyValidator](https://github.com/maxim-valov/KeyValidator/issues/1#issue-823769506)
+* [Ряд невалидных ключей определяется как валидные в KeyValidator](https://github.com/maxim-valov/KeyValidator/issues/2#issue-823771208)
 
 ## **Описание процесса тестирования**
 
