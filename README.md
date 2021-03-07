@@ -26,7 +26,7 @@
 
 **Тестирование производилось в следующем окружении**:
 
-* Windows 10x
+* Windows 10 64x
 * OpenJDK 11.0.10+9
 * KeyValidator
 * Git Bash
